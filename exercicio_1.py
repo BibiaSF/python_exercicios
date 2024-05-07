@@ -1,0 +1,5 @@
+numero1 = int(input("Insira o primeiro número inteiro: "))
+numero2 = int(input("Insira o segundo número inteiro: "))
+#print("Você inseriu os números:", numero1, "e", numero2)
+print(f"A soma dos dois valores é : {numero1+numero2}")
+print(f"A multiplicação dos produtos é : {numero1*numero2}")
